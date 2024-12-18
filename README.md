@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Kisan Jena 👋</h1>
 <p align="center">
-  <i> Data Science Enthusiast | Passionate About Development | 3rd Year Student</i>
+  <i>AI/ML & Data Science Enthusiast | Passionate About Development | 3rd Year Student</i>
 </p>
 
 <!-- Profile Summary -->
@@ -15,7 +15,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a **3rd year student** and an **AI/ML & Data Science Enthusiast**.  
-- 💻 **I know:** JavaScript, Python, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, and Jupyter Notebook.  
+- 💻 **I know:** JavaScript, Python, C, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, and Jupyter Notebook.  
 - 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML, and Data Science.  
 - 🌱 Actively learning and contributing to projects.  
 - 🚀 **Starting to contribute aggressively from December 2024**  
@@ -37,6 +37,7 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 </p>
 
 #### **Frameworks**:
@@ -60,6 +61,9 @@
 <p>
   <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white" />
 </p>
 
 ---
