@@ -14,7 +14,7 @@
 <!-- About Me Section -->
 ### 🙋‍♂️ About Me
 
-- 🎓 I'm a **3rd year student** and an **Intermediate Developer**.
+- 🎓 I'm a **3rd year student** and an **Beginner Developer**.
 - 💻 **I know:** JavaScript, Python, Pandas, NumPy, React, Node, Express, VSCode, Jupyter Notebook, Machine Learning, and Auth.js.
 - 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML and Data Science.
 - 🌱 Actively learning and contributing to projects.
