@@ -80,13 +80,7 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KisanJena&show_icons=true&theme=react&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KisanJena&theme=react&hide_border=true" />
-</div>
 
 ---
 
