@@ -15,7 +15,8 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a **3rd year student** and an **AI/ML & Data Science Enthusiast**.  
-- 💻 **I know:** JavaScript, Python, C, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, and Jupyter Notebook.  
+- 💻 **I know:** JavaScript, Python, C, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, Jupyter Notebook, HTML, CSS, Tailwind CSS, Jinja2, and bcrypt.  
+- 🔒 Experience in implementing **authentication** and secure practices for web development.  
 - 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML, and Data Science.  
 - 🌱 Actively learning and contributing to projects.  
 - 🚀 **Starting to contribute aggressively from December 2024**  
@@ -38,14 +39,18 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
 
-#### **Frameworks**:
+#### **Frameworks & Libraries**:
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
 </p>
 
@@ -55,6 +60,12 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+#### **Authentication & Security**:
+<p>
+  <img src="https://img.shields.io/badge/bcrypt-00C7B7?style=flat&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authentication-4285F4?style=flat&logo=lock&logoColor=white" />
 </p>
 
 #### **Tools**:
@@ -77,10 +88,6 @@
 - 📧 **Email**: [kisan.k.k.jena.01@gmail.com](mailto:kisan.k.k.jena.01@gmail.com)  
 - 📸 **Instagram**: [\_kisanjena](https://instagram.com/_kisanjena)  
 - 🐦 **X (formerly Twitter)**: [kisan69098](https://twitter.com/kisan69098)  
-
----
-
-
 
 ---
 
