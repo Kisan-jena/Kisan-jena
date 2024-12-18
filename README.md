@@ -15,8 +15,7 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a **3rd year student** and an **AI/ML & Data Science Enthusiast**.  
-- 💻 **I know:** JavaScript, Python, C, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, Jupyter Notebook, HTML, CSS, Tailwind CSS, Jinja2, and bcrypt.  
-- 🔒 Experience in implementing **authentication** and secure practices for web development.  
+- 💻 **I know:** JavaScript, Python, C, SQL, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, Jupyter Notebook, HTML, CSS, Tailwind CSS, Jinja2, bcrypt, and SQL Workbench.    
 - 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML, and Data Science.  
 - 🌱 Actively learning and contributing to projects.  
 - 🚀 **Starting to contribute aggressively from December 2024**  
@@ -27,7 +26,8 @@
 ### 🏆 LeetCode Profile
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kisanjena?theme=dark&font=Roboto&ext=heatmap)
 
-🔗 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)**
+🔗 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)**  
+🔗 **[TUF Profile](https://auth.geeksforgeeks.org/user/kisanjena/profile)**  
 
 ---
 
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 </p>
@@ -60,6 +61,12 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+#### **Database Tools**:
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 #### **Authentication & Security**:
@@ -85,6 +92,7 @@
 - 🔗 **LinkedIn**: [linkedin.com/in/KisanJena](https://www.linkedin.com/feed/)  
 - 💬 **Discord**: [KisanJena](https://discord.com/channels/@me)  
 - 🧑‍💻 **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Kisanjena/)  
+- 🧑‍💻 **TUF Profile**: [GeeksForGeeks TUF Profile](https://auth.geeksforgeeks.org/user/kisanjena/profile)  
 - 📧 **Email**: [kisan.k.k.jena.01@gmail.com](mailto:kisan.k.k.jena.01@gmail.com)  
 - 📸 **Instagram**: [\_kisanjena](https://instagram.com/_kisanjena)  
 - 🐦 **X (formerly Twitter)**: [kisan69098](https://twitter.com/kisan69098)  
