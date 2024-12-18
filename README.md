@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Kisan Jena 👋</h1>
 <p align="center">
-  <i>Beginner Developer | 3rd Year Student | Tech Enthusiast</i>
+  <i>AI/ML & Data Science Enthusiast | Passionate About Development | 3rd Year Student</i>
 </p>
 
 <!-- Profile Summary -->
@@ -14,11 +14,12 @@
 <!-- About Me Section -->
 ### 🙋‍♂️ About Me
 
-- 🎓 I'm a **3rd year student** and an **Beginner Developer**.
-- 💻 **I know:** JavaScript, Python, Pandas, NumPy, React, Node, Express, VSCode, Jupyter Notebook, Machine Learning, and Auth.js.
-- 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML and Data Science.
-- 🌱 Actively learning and contributing to projects.
-- 🚀 **Starting to contribute aggressively from December 2024**
+- 🎓 I'm a **3rd year student** and an **AI/ML & Data Science Enthusiast**.  
+- 💻 **I know:** JavaScript, Python, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, and Jupyter Notebook.  
+- 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in AI, ML, and Data Science.  
+- 🌱 Actively learning and contributing to projects.  
+- 🚀 **Starting to contribute aggressively from December 2024**  
+
 ---
 
 <!-- LeetCode Stats -->
@@ -32,17 +33,33 @@
 <!-- Skills Section -->
 ### 🛠️ Tech Stack
 
-#### **Languages & Tools**:
+#### **Programming Languages**:
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+#### **Frameworks**:
+<p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+</p>
+
+#### **Libraries**:
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" />
+</p>
+
+#### **Tools**:
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -50,9 +67,12 @@
 <!-- Social Media Links -->
 ### 🌐 Connect With Me
 
-- 🔗 **LinkedIn**: [linkedin.com/in/KisanJena](https://www.linkedin.com/feed/)
-- 💬 **Discord**: [KisanJena](https://discord.com/channels/@me)
-- 🧑‍💻 **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Kisanjena/)
+- 🔗 **LinkedIn**: [linkedin.com/in/KisanJena](https://www.linkedin.com/feed/)  
+- 💬 **Discord**: [KisanJena](https://discord.com/channels/@me)  
+- 🧑‍💻 **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Kisanjena/)  
+- 📧 **Email**: [kisan.k.k.jena.01@gmail.com](mailto:kisan.k.k.jena.01@gmail.com)  
+- 📸 **Instagram**: [\_kisanjena](https://instagram.com/_kisanjena)  
+- 🐦 **X (formerly Twitter)**: [kisan69098](https://twitter.com/kisan69098)  
 
 ---
 
@@ -68,7 +88,7 @@
 
 <!-- Quote -->
 ### 💡 Quote to Live By:
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 ---
 
