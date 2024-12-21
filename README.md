@@ -27,7 +27,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kisanjena?theme=dark&font=Roboto&ext=heatmap)
 
 🔗 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)**  
-🔗 **[TUF Profile](https://auth.geeksforgeeks.org/user/kisanjena/profile)**  
+
 
 ---
 
