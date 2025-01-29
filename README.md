@@ -67,7 +67,10 @@
 <p>
   <img src="https://img.shields.io/badge/SQL%20Workbench-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white" />
 </p>
+
 
 #### **Authentication & Security**:
 <p>
