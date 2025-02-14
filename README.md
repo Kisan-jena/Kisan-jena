@@ -108,7 +108,3 @@
 <!-- Quote -->
 ### 💡 Quote to Live By:
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-
----
-
-<p align="center">💻 Built with ❤️ by <b>Kisan Jena</b></p>
