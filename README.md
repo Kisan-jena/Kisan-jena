@@ -103,8 +103,3 @@
 - 📸 **Instagram**: [\_kisanjena](https://instagram.com/_kisanjena)  
 - 🐦 **X (formerly Twitter)**: [kisan69098](https://twitter.com/kisan69098)  
 
----
-
-<!-- Quote -->
-### 💡 Quote to Live By:
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
