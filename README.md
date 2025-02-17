@@ -24,10 +24,7 @@
 
 <!-- LeetCode Stats -->
 ### 🏆 LeetCode Profile
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kisanjena?theme=dark&font=Roboto&ext=heatmap)
-
 🔗 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)**  
-
 
 ---
 
