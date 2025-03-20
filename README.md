@@ -26,11 +26,12 @@
 <!-- Social Media Links -->
 ### 🌐 Connect With Me
 
-- 🔗 **LinkedIn**: [linkedin.com/in/KisanJena](https://www.linkedin.com/feed/)  
-- 💬 **Discord**: [KisanJena](https://discord.com/channels/@me)  
-- 🧑‍💻 **LeetCode**: [LeetCode Profile](https://leetcode.com/u/Kisanjena/)  
-- 🧑‍💻 **TUF Profile**: [GeeksForGeeks TUF Profile](https://auth.geeksforgeeks.org/user/kisanjena/profile)  
-- 📧 **Email**: [kisan.k.k.jena.01@gmail.com](mailto:kisan.k.k.jena.01@gmail.com)  
-- 📸 **Instagram**: [\_kisanjena](https://instagram.com/_kisanjena)  
-- 🐦 **X (formerly Twitter)**: [kisan69098](https://twitter.com/kisan69098)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/KisanJena" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
+  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40"></a>
+  <a href="mailto:kisan.k.k.jena.01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40"></a>
+  <a href="https://instagram.com/_kisanjena" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
+  <a href="https://twitter.com/kisan69098" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"></a>
+</p>
+
 
