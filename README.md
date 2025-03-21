@@ -19,8 +19,7 @@
 - 🚀 **Starting to contribute aggressively from December 2024**  
 
 <!-- LeetCode Stats -->
-### 🏆 LeetCode Profile
-🔗 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)**  
+### 🏆 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)** 
 
 
 <!-- Social Media Links -->
