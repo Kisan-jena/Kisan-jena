@@ -13,14 +13,17 @@
 ### 🙋‍♂️ About Me
 
 - 🎓 I'm a **3rd year student** and an **AI/ML & Data Science Enthusiast**.  
-- 💻 **I know:** JS, TS, Py, C, SQL, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn,  Tailwind CSS,.    
-- 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in Web-Dev and ML, DL, GEN AI.  
+- 💻 **I know:** JS, TS, Py, C, SQL, Pandas, NumPy, React, Node, Flask, Express, TensorFlow, Streamlit, scikit-learn, Tailwind CSS.    
+- 🚀 Currently solving problems on **LeetCode** and expanding my knowledge in Web-Dev, ML, DL, and Gen AI.  
 - 🌱 Actively learning and contributing to projects.  
 - 🚀 **Starting to contribute aggressively from December 2024**  
 
-<!-- LeetCode Stats -->
-### 🏆 **[LeetCode Profile](https://leetcode.com/u/Kisanjena/)** 
+<!-- Coding Profiles -->
+### 🏆 Coding Profiles  
 
+- **[LeetCode](https://leetcode.com/u/Kisanjena/)**  
+- **[GeeksforGeeks](https://www.geeksforgeeks.org/user/kisanjena2004/)**  
+- **[Naukri 360](https://www.naukri.com/code360/profile/84e35f28-b8ec-412b-931c-d6fc5d3093dd)**  
 
 <!-- Social Media Links -->
 ### 🌐 Connect With Me
@@ -32,5 +35,3 @@
   <a href="https://instagram.com/_kisanjena" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"></a>
   <a href="https://twitter.com/kisan69098" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40"></a>
 </p>
-
-
