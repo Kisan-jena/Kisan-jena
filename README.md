@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 ### 🙋‍♂️ About Me
 
-- 🎓 I am a **3rd-year Computer Science student** with a deep interest in **AI, Machine Learning, and Data Science**.  
+- 🎓 I am a **final-year Computer Science student** with a deep interest in **AI, Machine Learning, and Data Science**.  
 - 💻 **Technical Skills:** JavaScript, TypeScript, Python, C, SQL, Pandas, NumPy, React, Node.js, Flask, Express, TensorFlow, Streamlit, scikit-learn, Tailwind CSS.  
 - 🚀 Currently solving problems on **LeetCode** and enhancing my knowledge in **Web Development, Machine Learning, Deep Learning, and Generative AI**.  
 - 🌱 Passionate about continuous learning and contributing to open-source projects.  
