@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Kisan Jena 👋</h1>
 <p align="center">
-  <i>Data Science Enthusiast | Passionate Developer | Pre-final Year Computer Science Student</i>
+  <i>Data Science Enthusiast | Passionate Developer | final Year Computer Science Student</i>
 </p>
 
 <!-- Profile Summary -->
